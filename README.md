@@ -1,4 +1,4 @@
-# ![coscup](coscup-logo.png)
+<img src="assets/coscup-logo.png" alt="coscup">
 
 <div align="center">
   <h1>Travel Information in Taipei</h1>
@@ -164,7 +164,7 @@ These street foods represent the diverse and delicious food scene of Taipei, and
   <tr>
     <td>
       <h3>The National Palace Museum</h3>
-      <img src="National_Palace_Museum.jpg" alt="National Palace Museum">
+      <img src="assets/National_Palace_Museum.jpg" alt="National Palace Museum">
     </td>
     <td>
       The National Palace Museum houses one of the largest collections of Chinese art and historical artifacts, offering visitors a glimpse into the rich cultural heritage of China. It is one of the most visited museums in the world.
@@ -172,20 +172,29 @@ These street foods represent the diverse and delicious food scene of Taipei, and
   </tr>
   <tr>
     <td>
-      <h3>Taipei 101</h3>
-      <img src="Taipei_101.jpg" alt="Taipei 101">
+      <h3>Longshan Temple</h3>
+      <img src="assets/Longshan_Temple.jpg" alt="Longshan Temple">
     </td>
     <td>
-      Taipei 101 is a famous skyscraper known for its innovative design and incredible height, once the tallest building in the world. It offers panoramic views of the city and is a prime spot for shopping and dining.
+      Longshan Temple, located in the historic Wanhua District, is one of the oldest and most famous temples in Taipei. Built in 1738, it blends Buddhist and Taoist traditions. The temple's intricate architecture and spiritual ambiance make it a must-visit. In the evening, you can explore the nearby Huaxi Street Night Market for local food.
     </td>
   </tr>
   <tr>
     <td>
       <h3>Xiangshan (Elephant Mountain)</h3>
-      <img src="Xiangshan.jpg" alt="Xiangshan">
+      <img src="assets/Xiangshan.jpg" alt="Xiangshan">
     </td>
     <td>
       Xiangshan, also known as Elephant Mountain, offers one of the best hiking trails in Taipei, with stunning views of the city, including Taipei 101. It's a popular spot for both locals and tourists looking for a scenic escape.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Huashan 1914 Creative Park</h3>
+      <img src="assets/Huashan.jpg" alt="Huashan 1914 Creative Park">
+    </td>
+    <td>
+      Huashan 1914 Creative Park is a vibrant cultural hub in Taipei, known for its art exhibitions, indie markets, and stylish cafés. It's just a 6-minute walk from Syntrend Creative Park and Guanghua Digital Plaza, a tech lover's paradise with the latest gadgets, gaming gear, and electronics.
     </td>
   </tr>
 </table>
@@ -205,19 +214,10 @@ These street foods represent the diverse and delicious food scene of Taipei, and
 
 ## Visa
 
-Many nationalities qualify for visa-free entry to Taiwan for up to 90 days, while others may need a Visa on Arrival or a Tourist Visa. To find out the specific visa requirements based on your nationality, visit: https://www.boca.gov.tw/np-137-2.html
-
 ## Accommodation
-> akdfnlkjashglkjasndflkjasndfsdfasdf
+- [**The Grand Hotel**](https://www.grand-hotel.org/EN/official/main.aspx?gh=TP): A historic and majestic palace-style building, The Grand Hotel is one of Taipei’s most iconic landmarks. Located in the Yuanshan area, it offers a serene environment and overlooks the city skyline. It’s an ideal choice for those seeking to experience traditional culture and luxury accommodation.
 
-kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,f
-adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf
-sdjfnakjsdnfljkasdnfjmas
+- [**K Hotels Dunnan**](http://dunnan.khotels.com.tw/en/): Walking to MRT Liuzhangli Station takes just 10 minutes, and Tonghua Street and Linjiang Street night markets as well as Xinyi District’s Taipei World Trade Center are quite close. 
 
-## Others
-> akdfnlkjashglkjasndflkjasndfsdfasdf
-
-kjsndlkjfnaslkjdfnaljskdfnaksd,mfnkamsd,f
-adsjfnlaksjdnfkajsdnflkajsndfkajs,dnfjkasdfnakjsdnfakjsdnfajs,dnfkjasdf
-sdjfnakjsdnfljkasdnfjmas
+- [**May Rooms Taipei NTU**](https://mayrooms.info/ntu/): Located next to National Taiwan University in the lively Gongguan district, the area is a food lover’s haven with plenty of local snacks and hidden gems. Both hostels and hotels are available, making it a convenient spot for all types of travelers.
 
